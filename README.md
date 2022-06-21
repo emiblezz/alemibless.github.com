@@ -1,12 +1,11 @@
 # alemibless.github.com
-<!DOCTYPE HTML>
 <html>
 <!-- the title of my website -->	
 <head>
 <title>MY PERSONEL CV</title>
 </head>
 		<!-- heading of the cv begins -->
-<h1 ><u><center>CURRICULUM VITAE</u></center></h1>
+<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
 
 		<!-- form for the whole cv structure -->
 	<form>
@@ -124,13 +123,16 @@ width="200" >
 			<td>
 		</tr>
 	</table>
-
+	
+		<div>
 	<HR>
 		<!-- declearation of last sentence -->
 	<h8>DECLARATION</h8>
-	<p>I ALEMI BLESS declare that all the above written information is true to the best of my abilities</P>
+	<p>I ALEMI BLESS declare that all the above written information is true to the best of my abilities</P><br>
+	</div>
 		<!-- closing code -->
-</form>
+
 </fieldset>
+</form>
 </body>
 </html>
