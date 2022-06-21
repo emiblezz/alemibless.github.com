@@ -5,7 +5,7 @@
 <title>MY PERSONEL CV</title>
 </head>
 		<!-- heading of the cv begins -->
-<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
+<h1><u><center>CURRICULUM VITAE </center></u></h1>
 
 		<!-- form for the whole cv structure -->
 	<form>
