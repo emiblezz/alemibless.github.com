@@ -2,13 +2,15 @@
 <html>
 <!-- the title of my website -->	
 <head>
-<title>MY PERSONEL CV</title>
+	<title>MY PERSONEL CV</title>
 </head>
+	
 		<!-- heading of the cv begins -->
-<h1><u><center>CURRICULUM VITAE </center></u></h1>
+	<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
 
 		<!-- form for the whole cv structure -->
-	<form>
+<body>
+<form>
 	<fieldset>
 		<!-- the frame for my picture -->
 
@@ -128,11 +130,11 @@ width="200" >
 	<HR>
 		<!-- declearation of last sentence -->
 	<h8>DECLARATION</h8>
-	<p>I ALEMI BLESS declare that all the above written information is true to the best of my abilities</P><br>
+	<p>I ALEMI BLESS declare that all the above written information is true to the best of my knowledge.</P><br>
 	</div>
 		<!-- closing code -->
 
 </fieldset>
 </form>
-</body>
+</body>		
 </html>
