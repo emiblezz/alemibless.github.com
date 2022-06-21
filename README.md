@@ -1,112 +1,21 @@
 # alemibless.github.com
 <!DOCTYPE HTML>
 <html>
+<!-- the title of my website -->	
 <head>
-<style>
-	table,
-	th,
-	td {
-	    border:1px solid black;
-	    border-collapse:collapse;
-	}
-	legend {
-	        align: center;
-	}
-	table1,
-	th,
-	td {
-	    border:1px solid black;
-	    border-collapse:collapse;
-	}
-	h1 {
-	    font-size:40px;
-	    color:#000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    
-	}
-	h2 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h3 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h4 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h5 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h6 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h7 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color:#000;
-	}
-	h8 {
-	    font-size:30px;
-	    color:#ff0000;
-          font-weight:bold;
-          align: center;
-          margin-bottom:0px;
-	    background-color: #000;
-	}
-	form {
-	    border: 4px solid black;
-	}
-	iframe {
-	     margin-bottom:0px;
-	}
-	body {
-	background-size: contain;
-	}
-
-</style>
+<title>MY PERSONEL CV</title>
 </head>
-		<!-- body of the cv begins -->
-<body style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ioavRf47D5YjC2-3grVBKoxSWpZtiYZQ4ylvzGZ9e9fJIzTlcxAwHYamnJD9WUN5LHQ&usqp=CAU');
-	">
+		<!-- heading of the cv begins -->
 <h1 ><u><center>CURRICULUM VITAE</u></center></h1>
 
 		<!-- form for the whole cv structure -->
 	<form>
 	<fieldset>
-<div>
+		<!-- the frame for my picture -->
+
 <iframe src="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=1660780800&v=beta&t=pMVX1-nU0tYpbMyjxogym37kP61PVk7it78S2iinbLY"
 height="200"
-width="200"
-style="4px solid blue">
+width="200" >
 </iframe>
 
 		<!-- personal details -->
@@ -117,7 +26,6 @@ style="4px solid blue">
 			<p>AGE: 23</p>
 			<p>SEX: M</p>
 			<p>MARITAL STATUS: SINGLE</p>
-</div>
 
 	<HR>
 		<!-- Table for Educational Background-->
