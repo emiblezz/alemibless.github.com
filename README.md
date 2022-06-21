@@ -97,7 +97,7 @@ width="200" >
 		<ol>
 			<li>FOOTBALL</li>
 			<li>READING NOVELS</li>
-			<li>TABLE TENNIS<//li>
+			<li>TABLE TENNIS</li>
 			<li>MOUNTAIN HIKING</li> 
 		</ol>
 
@@ -122,7 +122,7 @@ width="200" >
 			<p>Email: gatwechbayak@gmail.com</p>
 			<p>Address: JUBA</p>
 			<p>Occupation: DOCTOR</p>
-			<td>
+			</td>
 		</tr>
 	</table>
 	
