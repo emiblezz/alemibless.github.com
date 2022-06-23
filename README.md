@@ -135,7 +135,8 @@ width="200" >
 	</div>
 		<!-- closing code -->
 		<footer>
-			<p>ALEMI BLESS 21/X/20013/EVE</p>
+			<p>please leave us with your contacts by clicking here<a href="https://emiblezz.github.io/CONTACTS-FORM/"><button>click here</button></a></>
+			<p>ALEMI BLESS 21/X/20013/EVE</p><br>
 		</footer>
 
 </fieldset>
