@@ -100,6 +100,7 @@ width="200" >
 			<li>TABLE TENNIS</li>
 			<li>MOUNTAIN HIKING</li> 
 		</ol>
+		<p>YOU CAN VIEW MY PERTICIPATION IN THE HOBBIES HERE<a href="https://emiblezz.github.io/hobbies-and-contact-form/">CLICK HERE</a></p>
 
 	<HR>
 		<!-- reference table -->
