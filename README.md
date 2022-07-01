@@ -14,10 +14,10 @@
 	<fieldset>
 		<!-- the frame for my picture -->
 
-<iframe src="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=1660780800&v=beta&t=pMVX1-nU0tYpbMyjxogym37kP61PVk7it78S2iinbLY"
+<img src="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=1660780800&v=beta&t=pMVX1-nU0tYpbMyjxogym37kP61PVk7it78S2iinbLY"
 height="200"
 width="200" >
-</iframe>
+</img>
 
 		<!-- personal details -->
 	<h2>PERSONAL DETAILS</h2>
