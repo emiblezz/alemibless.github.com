@@ -9,7 +9,7 @@
 	<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
 
 		<!-- form for the whole cv structure -->
-<body onmouseover=alert("Hello! welcome to my website. I believe great things are not made alone")>
+<body>
 <form>
 	<fieldset>
 		<!-- the frame for my picture -->
@@ -138,9 +138,8 @@ width="200" >
 			<p>ALEMI BLESS 21/X/20013/EVE</p><br>
 		</footer>
 
-     <button onclick="window.print()">PRINT AND SAVE</button>
-
 </fieldset>
 </form>
+		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
 </body>		
 </html>
