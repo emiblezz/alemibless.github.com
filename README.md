@@ -9,12 +9,12 @@
 	<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
 
 		<!-- form for the whole cv structure -->
-<body>
+<body onmouseover=alert("Hello! welcome to my website. I believe great things are not made alone")>
 <form>
 	<fieldset>
 		<!-- the frame for my picture -->
 
-<img src="https://media-exp2.licdn.com/dms/image/C5603AQEjlsgLPej7wA/profile-displayphoto-shrink_200_200/0/1624454506617?e=1660780800&v=beta&t=pMVX1-nU0tYpbMyjxogym37kP61PVk7it78S2iinbLY"
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFPTD7TZHE-cQ/profile-displayphoto-shrink_400_400/0/1660079051575?e=1665619200&v=beta&t=y4SZGnMa3Gw4tfjXHNm9AVqhXtwBIDH4wu2ZvFm8p7w"
 height="200"
 width="200" >
 
@@ -137,9 +137,10 @@ width="200" >
 			<p>please leave us with your contacts by clicking here <a href="https://emiblezz.github.io/CONTACTS-FORM/">click here</a></p>
 			<p>ALEMI BLESS 21/X/20013/EVE</p><br>
 		</footer>
-		<script>
-		<button onclick="window.print()">PRINT AND SAVE</button>
-		</script>
+<script>
+     <button onclick="window.print()">PRINT AND SAVE</button>
+     
+</script>
 
 </fieldset>
 </form>
