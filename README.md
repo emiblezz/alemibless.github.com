@@ -143,16 +143,12 @@ width="200" >
 		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
 </body>	
 <style>
-body{
-        
+body{ 
         over-flow: hidden;
         background-image:url(https://media.istockphoto.com/illustrations/communication-contact-network-background-illustration-illustration-id1415992464?k=20&m=1415992464&s=612x612&w=0&h=UFYAxbVnWaenVlBLRLeAmph-knkN8e8b1sagVR0mPmQ=);
-        background-size:cover;
-        background-repeat: no-repeat;
-        animation:change 30s infinite ease-in-out;
-        justify-content: center;
-        background-position:cover;
-        transform: translate(-50%,-50%)
+       animation:change 30s infinite ease-in-out;
+       background-position: cover;
+       transform: translate(-50%,-50%)
          }
  @keyframes change{
             0%
