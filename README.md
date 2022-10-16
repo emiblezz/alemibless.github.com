@@ -144,6 +144,7 @@ width="200" >
 </body>	
 <style>
 form , body{ 
+	background-repeat: no-repeat;
         over-flow: hidden;
         background-image:url(https://media.istockphoto.com/illustrations/communication-contact-network-background-illustration-illustration-id1415992464?k=20&m=1415992464&s=612x612&w=0&h=UFYAxbVnWaenVlBLRLeAmph-knkN8e8b1sagVR0mPmQ=);
        animation:change 30s infinite ease-in-out;
