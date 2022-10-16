@@ -14,7 +14,7 @@
 	<fieldset>
 		<!-- the frame for my picture -->
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFPTD7TZHE-cQ/profile-displayphoto-shrink_400_400/0/1660079051575?e=1665619200&v=beta&t=y4SZGnMa3Gw4tfjXHNm9AVqhXtwBIDH4wu2ZvFm8p7w"
+<img src="https://avatars.githubusercontent.com/u/107726040?v=4"
 height="200"
 width="200" >
 
