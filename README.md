@@ -10,8 +10,6 @@
 
 		<!-- form for the whole cv structure -->
 <body>
-<div class="container">
-<div class="content">
 <form>
 	<fieldset>
 		<!-- the frame for my picture -->
@@ -143,11 +141,9 @@ width="200" >
 </fieldset>
 </form>
 		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
-</div>
-</div>
 </body>	
 <style>
-.container {
+body{
         width:100%;
         height:100vh;
         over-flow: hidden;
@@ -159,17 +155,12 @@ width="200" >
         text-align: center;
         position:relative;
         background-position:center;
-         }
-         .content{
          position: absolute;
          top:50%;
          left:50%;
-         transform: translate(-50%,-50%);
-         }
-         .content{
+         transform: translate(-50%,-50%)
          font-size: 20px;
          letter-spacing:15px;
-         color:white;
          }
  @keyframes change{
             0%
