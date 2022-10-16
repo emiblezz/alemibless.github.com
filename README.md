@@ -10,6 +10,8 @@
 
 		<!-- form for the whole cv structure -->
 <body>
+<div class="container">
+<div class="content">
 <form>
 	<fieldset>
 		<!-- the frame for my picture -->
@@ -141,8 +143,34 @@ width="200" >
 </fieldset>
 </form>
 		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
+</div>
+</div>
 </body>	
 <style>
+.container {
+        width:100%;
+        height:100vh;
+        over-flow: hidden;
+        background-image:url(https://media.istockphoto.com/illustrations/communication-contact-network-background-illustration-illustration-id1415992464?k=20&m=1415992464&s=612x612&w=0&h=UFYAxbVnWaenVlBLRLeAmph-knkN8e8b1sagVR0mPmQ=);
+        background-size:cover;
+        background-repeat: no-repeat;
+        animation:change 30s infinite ease-in-out;
+        justify-content: center;
+        text-align: center;
+        position:relative;
+        background-position:center;
+         }
+         .content{
+         position: absolute;
+         top:50%;
+         left:50%;
+         transform: translate(-50%,-50%);
+         }
+         .content{
+         font-size: 20px;
+         letter-spacing:15px;
+         color:white;
+         }
  @keyframes change{
             0%
             {
