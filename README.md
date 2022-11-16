@@ -122,17 +122,17 @@ width="200" >
 			<p>Name: ALEMI EMMANUEL TODOKO</p>
 			<p>Email: alemiemmanueltodoko@gmail.com</p>
 			<p>Address: JUBA</p>
-			<p>Occupation: DOCTOR</p>
+			<p>Occupation: SOFTWARE DEVELOPER</p>
 			</td>
 		</tr>
 	</table>
 	
-		<div>
+		
 	<HR>
 		<!-- declearation of last sentence -->
 	<h8>DECLARATION</h8>
 	<p>I ALEMI BLESS declare that all the above written information is true to the best of my knowledge.</P><br>
-	</div>
+	
 		<!-- closing code -->
 		<footer>
 			<p>please leave us with your contacts by clicking here <a href="https://emiblezz.github.io/CONTACTS-FORM/">click here</a></p>
@@ -140,7 +140,7 @@ width="200" >
 
 	</fieldset>
 </form>
-		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
+<button type="button" onclick="window.print()">PRINT AND SAVE</button>
 </body>	
 </style>
 </html>
