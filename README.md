@@ -136,7 +136,6 @@ width="200" >
 		<!-- closing code -->
 		<footer>
 			<p>please leave us with your contacts by clicking here <a href="https://emiblezz.github.io/CONTACTS-FORM/">click here</a></p>
-			<p>A</p><br>
 		</footer>
 
 </fieldset>
