@@ -39,13 +39,13 @@ width="200" >
 		
 		<tr>
 			<td>2005-2012</td>
-			<td>BAIDIT PRIMARY SCHOOL PRIMARY LEAVING EDUCATION</td>
+			<td>TEREMUNGA PRIMARY SCHOOL PRIMARY LEAVING EDUCATION</td>
 			<td>(P.L.E)</td>
 		</tr>
 
 		<tr>
 			<td>2013-2017</td> 
-			<td>MASINDI HIGH SECONDARY SCHOOL</td> 
+			<td>ST.CHARLES LWANGA COLLEGE KOBOKO</td> 
 			<td>UGANDA CERTIFICATE EDUCATION ( U.C.E )</td>
 		</tr>
 
@@ -68,17 +68,17 @@ width="200" >
 		<tr>
 			<td>EAST AFRICAN MINISTRIES</td> 
 			<td>ONE YEAR </td>
-			<td>LOGISTICS AND PROCUREMENT OFFICER</td>
+			<td>LOGISTICS AND PROCUREMENT OFFICER(BHA)</td>
 		</tr>
 		<tr>
-			<td>HAPPY DAY NURSERY & PRIMARY SCHOOL</td>
+			<td>SIMON TECH</td>
 			<td>SEVEN MONTHS </td>
-			<td>TEACHER</td>
+			<td>SALES AGENT</td>
 		</tr>
 		<tr>
 			<td>BUSINESS WITHOUT BORDERS</td>
 			<td>TWO YEARS</td>
-			<td>PROCUREMENT OFFICER</td>
+			<td>PROCUREMENT ASSISTANT</td>
 		</tr>
 	</table>
 
@@ -86,6 +86,7 @@ width="200" >
 		<!-- list of other skills -->
 	<h5>OTHER SKILLS</h5>
 		<ul>
+			<li>PYTHON,JAVA,HTML,CSS,GIT$GITHUB<li>
 			<li>BASIC COMPUTER SKILLS (MICROSOFT EXCEL, WORD, POWERPOINT, PRESENTATION)</li>
 			<li>PUBLIC SPEAKING</li>
 		</ul>
@@ -94,10 +95,10 @@ width="200" >
 	<HR>
 	<h6>HOBBIES</h6>
 		<ol>
-			<li>FOOTBALL</li>
-			<li>READING NOVELS</li>
+			<li>CODING</li>
+			<li>PLAYING VIDEO GAMES</li>
 			<li>BASKET BALL</li>
-			<li>MOUNTAIN HIKING</li> 
+			<li>LISTENING TO MUSIC</li> 
 		</ol>
 		<p>YOU CAN VIEW MY PERTICIPATION IN THE HOBBIES HERE<a href="https://emiblezz.github.io/hobbies/">CLICK HERE</a></p>
 
@@ -118,8 +119,8 @@ width="200" >
 			</td>
 
 			<td>
-			<p>Name: GATWECH BAYAK REATH</p>
-			<p>Email: gatwechbayak@gmail.com</p>
+			<p>Name: ALEMI EMMANUEL TODOKO</p>
+			<p>Email: alemiemmanueltodoko@gmail.com</p>
 			<p>Address: JUBA</p>
 			<p>Occupation: DOCTOR</p>
 			</td>
@@ -135,7 +136,7 @@ width="200" >
 		<!-- closing code -->
 		<footer>
 			<p>please leave us with your contacts by clicking here <a href="https://emiblezz.github.io/CONTACTS-FORM/">click here</a></p>
-			<p>ALEMI BLESS 21/X/20013/EVE</p><br>
+			<p>A</p><br>
 		</footer>
 
 </fieldset>
