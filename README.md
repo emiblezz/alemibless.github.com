@@ -138,7 +138,7 @@ width="200" >
 			<p>please leave us with your contacts by clicking here <a href="https://emiblezz.github.io/CONTACTS-FORM/">click here</a></p>
 		</footer>
 
-</fieldset>
+	</fieldset>
 </form>
 		<button type="button" onclick="window.print()">PRINT AND SAVE</button>
 </body>	
