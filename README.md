@@ -26,33 +26,51 @@ width="200" >
 			<p>AGE: 23</p>
 			<p>SEX: M</p>
 			<p>MARITAL STATUS: SINGLE</p>
+	<HR>
+	<h2>Summary:</h2>
+  <p>Highly motivated and detail-oriented software engineer with 5 years of experience in developing and maintaining web applications. Strong problem-solving skills and a passion for learning new technologies.</p>
+  	<h2>Technical Skills:</h2>
+  <ul>
+    <li>Programming languages: Java, Python, JavaScript, C++</li>
+    <li>Frameworks: Spring, Django, React, Angular</li>
+    <li>Databases: MySQL, MongoDB</li>
+    <li>Tools: Git, JIRA, Agile development</li>
+  </ul>
+  	<h2>Experience:</h2>
+  <h3>Software Engineer</h3>
+  <p>SAFE BODA UGANDA | Jan 2020 - Present</p>
+  <ul>
+    <li>Developed and maintained multiple web applications using Python,Java, Spring, and MySQL</li>
+    <li>Implemented new features and functionality based on user requirements</li>
+    <li>Worked closely with the design team to ensure that the applications were user-friendly and visually appealing</li>
+    <li>Mentored junior team members and provided technical support as needed</li>
+  </ul>
+  <h3>Software Engineer Intern</h3>
+  <p> JUMIA UGANDA | Jun 2016 - Dec 2017</p>
+  <ul>
+    <li>Worked on a team to develop a web application using Python, Django, and MongoDB</li>
+    <li>Assisted with debugging and troubleshooting issues</li>
+    <li>Contributed to the development of new features and functionality</li>
+    <li>Participated in agile development practices, including stand-up meetings and code reviews</li>
+  </ul>
+	
+	
 
 	<HR>
 		<!-- Table for Educational Background-->
 	<h3>EDUCATIONAL BACKGROUND</h3>
 	<table>
+
 		<tr>
-			<th>YEAR</th> 
-			<th>INSTITUTION</th> 
-			<th>AWARD</th>
+			<td>2012-2014</td> 
+			<td>RESTORE LEADERSHIP HIGH SCHOOL</td>
+			<td>UGANDA ADVANCED CERTICATE OF EDUCATION (U.A.C.E)</td>
 		</tr>
 		
 		<tr>
-			<td>2005-2012</td>
-			<td>TEREMUNGA PRIMARY SCHOOL PRIMARY LEAVING EDUCATION</td>
-			<td>(P.L.E)</td>
-		</tr>
-
-		<tr>
-			<td>2013-2017</td> 
-			<td>ST.CHARLES LWANGA COLLEGE KOBOKO</td> 
-			<td>UGANDA CERTIFICATE EDUCATION ( U.C.E )</td>
-		</tr>
-
-		<tr>
-			<td>2019-2021</td> 
-			<td>RESTORE LEADERSHIP HIGH SCHOOL</td>
-			<td>UGANDA ADVANCED CERTICATE OF EDUCATION (U.A.C.E)</td>
+			<td>2015-2017</td> 
+			<td>MAKERERE UNIVERSITY</td>
+			<td>HONORS DEGREE IN SOFTWARE ENGINEERING</td>
 		</tr>
 	</table>
 
@@ -66,19 +84,19 @@ width="200" >
 			<th>TITLE</th>
 		</tr>
 		<tr>
-			<td>EAST AFRICAN MINISTRIES</td> 
+			<td>JUMIA UGANDA</td> 
 			<td>ONE YEAR </td>
-			<td>LOGISTICS AND PROCUREMENT OFFICER(BHA)</td>
+			<td>PYTHON DEVELOPER</td>
 		</tr>
 		<tr>
-			<td>SIMON TECH</td>
-			<td>SEVEN MONTHS </td>
-			<td>SALES AGENT</td>
+			<td>JIJI UGANDA</td>
+			<td> 0NE YEAR</td>
+			<td>SOFTWARE ENGINEER</td>
 		</tr>
 		<tr>
-			<td>BUSINESS WITHOUT BORDERS</td>
+			<td>SAFE BODA UGANDA</td>
 			<td>TWO YEARS</td>
-			<td>PROCUREMENT ASSISTANT</td>
+			<td>JUNIOR SOFTWARE ENGINEER</td>
 		</tr>
 	</table>
 
