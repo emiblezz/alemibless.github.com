@@ -6,7 +6,7 @@
 </head>
 	
 		<!-- heading of the cv begins -->
-	<h1 ><u><center>CURRICULUM VITAE </center></u></h1>
+	<h1 ><u><center>RESUME</center></u></h1>
 
 		<!-- form for the whole cv structure -->
 <body>
@@ -22,7 +22,7 @@ width="200" >
 	<h2>PERSONAL DETAILS</h2>
 			<p>NAME: ALEMI BLESS</p>
 			<p>ADDRESS: KAMPALA UGANDA</p>
-			<p>EMAIL: alemibless@gmail.com</p>
+			<p>EMAIL: alemibless@gmail.com || alemibless.tk</p>
 			<p>AGE: 23</p>
 			<p>SEX: M</p>
 			<p>MARITAL STATUS: SINGLE</p>
